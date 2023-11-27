@@ -18,7 +18,7 @@ keyboard.col_pins = (board.GP2, board.GP3, board.GP4,
                      board.GP5, board.GP6, board.GP7, board.GP8, board.GP9)
 keyboard.row_pins = (board.GP14, board.GP15,
                      board.GP26, board.GP27, board.GP28)
-keyboard.diode_orientation = DiodeOrientation.COLUMNS
+keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 # add debug
 # keyboard.debug_enabled = True
@@ -42,6 +42,24 @@ keyboard.keymap = [
         KC.LSFT, KC.Z,    KC.X,    KC.C,    KC.V,    KC.B,   KC.HOME, KC.INS,      KC.PSCR, KC.END,  KC.N,   KC.M,  KC.COMMA, KC.DOT,  KC.SLSH, KC.RSHIFT,
         KC.LCTL, KC.LBRC, KC.LALT, KC.LEFT, KC.RGHT, KC.SPC, KC.LSFT, KC.HOME,     KC.DEL,  KC.BSPC, KC.ENT, KC.UP, KC.DOWN,  KC.LALT, KC.RBRC, KC.RCTRL
     ],
+
+    # fn layer
+    [   # Left layer                                                               #Right layer
+        KC.NO,   KC.F1,   KC.F2,   KC.F3,   KC.F4,   KC.F5,  KC.F6,   KC.NO,       KC.NO,   KC.F7,   KC.F8,   KC.F9,   KC.F10,  KC.F11,  KC.F12,  KC.NO,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.NO,       KC.NO,   KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.TRNS,     KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.TRNS,     KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.TRNS,     KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS
+    ],
+
+    # media layer
+    [   # Left layer                                                               #Right layer
+        KC.NO,   KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.NO,       KC.NO,   KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.NO,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.NO,       KC.NO,   KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.TRNS,     KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.TRNS,     KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,
+        KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS,KC.TRNS, KC.TRNS,     KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS, KC.TRNS
+    ]
 ]
 
 if __name__ == '__main__':
