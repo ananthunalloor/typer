@@ -120,7 +120,7 @@
   (net 56 "Net-(SW5:12-Pad2)")
   (net 57 "Net-(SW5:13-Pad2)")
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03582a)
     (at 186.69 143.20266)
     (path "/00000000-0000-0000-0000-00004d92dfaf")
@@ -249,7 +249,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c14a83dd-9f38-451b-969f-d659507d19af))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035830)
     (at 129.54 138.43)
     (path "/00000000-0000-0000-0000-00004d92df9c")
@@ -378,7 +378,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 16e7d89b-5bb1-4df9-b4c0-dc363cc261ba))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035832)
     (at 110.49 140.02766)
     (path "/00000000-0000-0000-0000-00004d92df9b")
@@ -507,7 +507,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b8a1e449-afb6-4ed6-895f-a20a95a1b12f))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_XX" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_XX" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035842)
     (at 191.4525 124.15266)
     (path "/00000000-0000-0000-0000-00004d92dfbb")
@@ -646,7 +646,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a2016622-cee1-44a8-b004-eb3a8beca79b))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035848)
     (at 129.54 119.38)
     (path "/00000000-0000-0000-0000-00004d92dfa3")
@@ -775,7 +775,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a3c50731-c407-4980-9930-a2613f3be806))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03584a)
     (at 110.49 120.97766)
     (path "/00000000-0000-0000-0000-00004d92dfa4")
@@ -904,7 +904,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp fa14d2bf-515f-4f64-9fcf-21c24e3dfd37))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03584e)
     (at 72.39 117.48516 90)
     (path "/00000000-0000-0000-0000-00004d92dfa6")
@@ -1033,7 +1033,7 @@
     (pad "99" smd rect (at 1.6637 7.62 90) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 2a3b2b10-d53c-4242-a02b-65b3aaccf001))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_XX" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_XX" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035864)
     (at 191.4525 105.10266)
     (path "/00000000-0000-0000-0000-00004d92dfad")
@@ -1172,7 +1172,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp babde278-df8e-461e-bb6b-46902b283bc5))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035868)
     (at 148.59 101.92766)
     (path "/00000000-0000-0000-0000-00004d92df8f")
@@ -1301,7 +1301,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 8aa738b6-35c1-49b6-b2c0-11ff3952ee21))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03586a)
     (at 129.54 100.33)
     (path "/00000000-0000-0000-0000-00004d92df90")
@@ -1430,7 +1430,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b03e698c-0eef-4606-9fad-fceba4eb6c79))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03586c)
     (at 110.49 101.92766)
     (path "/00000000-0000-0000-0000-00004d92df91")
@@ -1559,7 +1559,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 227d9bbc-8bb7-498b-a879-a1b32b509ed8))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03586e)
     (at 91.44 103.19766)
     (path "/00000000-0000-0000-0000-00004d92df92")
@@ -1688,7 +1688,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a2f1efb6-58fc-4966-8600-5f86be217b29))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_XX" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_XX" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035882)
     (at 191.4525 86.05266)
     (path "/00000000-0000-0000-0000-00004d92df34")
@@ -1827,7 +1827,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp f45f4440-8074-473c-b16d-4f77782e1039))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035884)
     (at 167.64 86.05266)
     (path "/00000000-0000-0000-0000-00004d92df2c")
@@ -1956,7 +1956,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c8d78725-99c0-4045-bab9-b03466e4a397))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035886)
     (at 148.59 82.87766)
     (path "/00000000-0000-0000-0000-00004d92df2d")
@@ -2085,7 +2085,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp f7c518fb-07bf-4f93-9a57-fc03d746b373))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035888)
     (at 129.54 81.28)
     (path "/00000000-0000-0000-0000-00004d92df2f")
@@ -2214,7 +2214,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ca9b8777-9948-412d-836b-726ea1797618))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03588a)
     (at 110.49 82.87766)
     (path "/00000000-0000-0000-0000-00004d92df30")
@@ -2343,7 +2343,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp eba09774-20e1-4497-82e8-2b0335671ea5))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03588c)
     (at 91.44 84.14766)
     (path "/00000000-0000-0000-0000-00004d92df18")
@@ -2472,7 +2472,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 0d76993f-b054-4318-a758-050ff222b71f))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e03588e)
     (at 72.39 88.91016 90)
     (path "/00000000-0000-0000-0000-00004d92df15")
@@ -2601,7 +2601,7 @@
     (pad "99" smd rect (at 1.6637 7.62 90) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a6a7941d-f696-4746-99ab-ece10159b1c6))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004e035892)
     (at 81.30286 153.06548 115)
     (path "/00000000-0000-0000-0000-00004d92dedd")
@@ -2730,7 +2730,7 @@
     (pad "99" smd rect (at 1.6637 7.62 115) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ead99e2b-8e4e-4e05-bf61-dfd932e046e8))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004eab1651)
     (at 50.8 177.8 25)
     (path "/00000000-0000-0000-0000-00004eab15c0")
@@ -2859,7 +2859,7 @@
     (pad "99" smd rect (at 1.6637 7.62 25) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c3940e4b-6c16-4372-a74e-96040ecbaec0))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004eab1653)
     (at 64.03848 161.11728 115)
     (path "/00000000-0000-0000-0000-00004eab15bc")
@@ -2988,7 +2988,7 @@
     (pad "99" smd rect (at 1.6637 7.62 115) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp c08d40ee-10a7-4fc8-ad2a-3395f7b8bc6c))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004eb1e215)
     (at 42.7482 160.53308 25)
     (path "/00000000-0000-0000-0000-00004eb1de18")
@@ -3117,7 +3117,7 @@
     (pad "99" smd rect (at 1.6637 7.62 25) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 466b961e-ff37-42fe-af3a-e306f6922be1))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004eb1e219)
     (at 34.69894 143.2687 25)
     (path "/00000000-0000-0000-0000-00004eb1ddab")
@@ -3246,7 +3246,7 @@
     (pad "99" smd rect (at 1.6637 7.62 25) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp e5d52cbf-51b1-49f7-823a-8cb11982f9c0))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004f3fe645)
     (at 148.59 140.02766)
     (path "/00000000-0000-0000-0000-00004f3fedce")
@@ -3375,7 +3375,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 04c9c863-2f6c-4f3f-bc81-e0144faa136c))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004f53930e)
     (at 51.96332 135.21944 25)
     (path "/00000000-0000-0000-0000-00004eb1ddeb")
@@ -3504,7 +3504,7 @@
     (pad "99" smd rect (at 1.6637 7.62 25) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 70aba285-e27c-4d4c-854b-11baaccd0cfa))
   )
 
-  (footprint "4pin35mmAudio" (layer "F.Cu")
+  (footprint "Library:4pin35mmAudio" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004fdc346c)
     (at 86.3092 30.48 -90)
     (path "/00000000-0000-0000-0000-00004fd9e229")
@@ -3577,7 +3577,7 @@
       (net 15 "/SDAM") (tstamp b31f2734-5108-4790-b16d-fa1fe7ce4293))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_XX" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_XX" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd35d2)
     (at 191.4525 67.0052)
     (path "/00000000-0000-0000-0000-00004ffd34d4")
@@ -3716,7 +3716,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b5ab0326-9338-4956-b84c-c40acd271542))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd35e3)
     (at 110.49 63.82766)
     (path "/00000000-0000-0000-0000-00004ffd34da")
@@ -3845,7 +3845,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 43111fb2-994f-4f1d-981a-f130d1cd7e3b))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd35f4)
     (at 129.54 62.23)
     (path "/00000000-0000-0000-0000-00004ffd34e0")
@@ -3974,7 +3974,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp a94187a7-67da-4f89-b8a2-54ed8e7ed28f))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd3605)
     (at 148.59 63.82766)
     (path "/00000000-0000-0000-0000-00004ffd34e6")
@@ -4103,7 +4103,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp acf3c597-e62e-4986-860a-ccde2ae606ba))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd3616)
     (at 167.64 67.0052)
     (path "/00000000-0000-0000-0000-00004ffd34ec")
@@ -4232,7 +4232,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp d2cff751-3a37-42e7-9742-c95d166d5d50))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd3627)
     (at 91.44 65.1002)
     (path "/00000000-0000-0000-0000-00004ffd34f2")
@@ -4361,7 +4361,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 3b72f2ef-27d0-4e51-bb33-7fabc863a6aa))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd3638)
     (at 72.39 65.1002)
     (path "/00000000-0000-0000-0000-00004ffd34f8")
@@ -4490,7 +4490,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp cb51cb74-fa5c-443e-8891-815802f783ea))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd3976)
     (at 148.59 120.97766)
     (path "/00000000-0000-0000-0000-00004d92dfa2")
@@ -4619,7 +4619,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp cfaf9016-3c17-4f69-8c1f-f9fbfa2aeb57))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd44b3)
     (at 91.44 122.24766)
     (path "/00000000-0000-0000-0000-00004d92dfa5")
@@ -4748,7 +4748,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp cf6879ea-00f3-4b03-ad36-e76c85862626))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd497f)
     (at 167.64 105.10266)
     (path "/00000000-0000-0000-0000-00004d92df8d")
@@ -4877,7 +4877,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp b39c8039-05c3-4e44-a699-c2fc316bd35d))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd4991)
     (at 167.64 124.15266)
     (path "/00000000-0000-0000-0000-00004d92dfa0")
@@ -5006,7 +5006,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp d848bd55-da77-4b34-9d48-33bb3cfe10f1))
   )
 
-  (footprint "ErgoDOX pcb:MX_FLIP_DIODE" (layer "F.Cu")
+  (footprint "Library:MX_FLIP_DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffd49a3)
     (at 167.64 143.20266)
     (path "/00000000-0000-0000-0000-00004d92df9f")
@@ -5135,7 +5135,7 @@
     (pad "99" smd rect (at 1.6637 7.62) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 49abd16c-a31f-49fc-bf32-090a767299b1))
   )
 
-  (footprint "MX_FLIP" (layer "F.Cu")
+  (footprint "Library:MX_FLIP" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffe1483)
     (at 77.2795 144.43202 25)
     (path "/00000000-0000-0000-0000-00004ffe1283")
@@ -5172,7 +5172,7 @@
       (net 17 "Net-(D1:8-Pad1)") (tstamp c0854309-dbe8-4912-96c5-4295936d5957))
   )
 
-  (footprint "MX_FLIP" (layer "F.Cu")
+  (footprint "Library:MX_FLIP" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffe1492)
     (at 60.01512 152.48382 25)
     (path "/00000000-0000-0000-0000-00004ffe1290")
@@ -5209,7 +5209,7 @@
       (net 16 "Net-(D1:7-Pad1)") (tstamp 0fcab529-6dec-4e84-a79b-61551fe88049))
   )
 
-  (footprint "MX_FLIP" (layer "F.Cu")
+  (footprint "Library:MX_FLIP" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffe14a1)
     (at 85.3313 161.69894 -155)
     (path "/00000000-0000-0000-0000-00004ffe197c")
@@ -5246,7 +5246,7 @@
       (net 23 "Net-(SW0:10-Pad2)") (tstamp 621febee-119b-4dfa-8d9d-98ddd781d217))
   )
 
-  (footprint "MX_FLIP" (layer "F.Cu")
+  (footprint "Library:MX_FLIP" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffe14b0)
     (at 68.06438 169.7482 -155)
     (path "/00000000-0000-0000-0000-00004ffe1987")
@@ -5283,7 +5283,7 @@
       (net 24 "Net-(SW0:11-Pad2)") (tstamp c4519dcc-c7b4-4df9-b079-5ecc4d34bb60))
   )
 
-  (footprint "DIODE" (layer "F.Cu")
+  (footprint "Library:DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffe14be)
     (at 74.05878 137.52576 25)
     (path "/00000000-0000-0000-0000-00004ffe1197")
@@ -5322,7 +5322,7 @@
     (pad "99" smd rect (at 1.6637 0 25) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp ead3fa5e-00da-4274-a07d-6edef736a4d7))
   )
 
-  (footprint "ErgoDOXmech" (layer "F.Cu")
+  (footprint "Library:ErgoDOXmech" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-00004ffff7bd)
     (at 50.8 177.8)
     (path "/00000000-0000-0000-0000-00004ec43592")
@@ -5353,7 +5353,7 @@
       (solder_mask_margin -0.254) (zone_connect 2) (tstamp 9949d5ef-692b-45e7-ae7a-1fbca36113b0))
   )
 
-  (footprint "DIODE" (layer "F.Cu")
+  (footprint "Library:DIODE" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-0000500037f4)
     (at 56.7944 145.57756 25)
     (path "/00000000-0000-0000-0000-00004ffe119d")
@@ -5392,7 +5392,7 @@
     (pad "99" smd rect (at 1.6637 0 25) (size 0.8382 0.8382) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp d59f7837-b4cb-4f6c-9ab6-3466ca83de65))
   )
 
-  (footprint "STAB_PCB940" (layer "F.Cu")
+  (footprint "Library:STAB_PCB940" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-0000501fc32f)
     (at 64.03848 161.11728 115)
     (path "/00000000-0000-0000-0000-0000501fc519")
@@ -5433,7 +5433,7 @@
       (zone_connect 2) (tstamp 7a4bcbd5-0e91-4823-9966-4f3717880be1))
   )
 
-  (footprint "STAB_PCB940" (layer "F.Cu")
+  (footprint "Library:STAB_PCB940" (layer "F.Cu")
     (tstamp 00000000-0000-0000-0000-0000501fc337)
     (at 81.30286 153.06548 -65)
     (path "/00000000-0000-0000-0000-0000501fc51f")
